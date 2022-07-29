@@ -2,7 +2,7 @@
 - 👀 I’m interested in Artificial Inteligence
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on data science project
-- 📫 How to reach me ...
+- 📫 Reach me on twitter @i_swaroop_
 
 <!---
 himasaiswaroop/himasaiswaroop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

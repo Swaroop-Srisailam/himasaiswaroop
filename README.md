@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @himasaiswaroop
+- 👋 Hi, I’m @swaroop-srisailam
 - 👀 I’m interested in Artificial Inteligence
 - 🌱 I’m currently pursuing Msc in Data Science
 - 🚀 I’m looking to collaborate on data science project

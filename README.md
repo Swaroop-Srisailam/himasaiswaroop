@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @swaroop-srisailam
 - 👀 I’m interested in Artificial Inteligence
 - 🌱 I’m currently pursuing Msc in Data Science
-- 🚀 I’m looking to collaborate on data science project
+- 🚀 I’m looking to collaborate in data science project
 - 📫 Reach me on twitter @i_swaroop_
 
 <!---
